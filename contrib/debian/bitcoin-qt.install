@@ -1,0 +1,6 @@
+debian/bin/godxoin-qt usr/bin
+godxoin-qt usr/lib/godxoin
+share/pixmaps/godxoin32.xpm usr/share/pixmaps
+share/pixmaps/godxoin80.xpm usr/share/pixmaps
+debian/godxoin-qt.desktop usr/share/applications
+debian/godxoin-qt.protocol usr/share/kde4/services/
